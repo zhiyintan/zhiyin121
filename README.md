@@ -1,5 +1,5 @@
 #### Hi there 👋
-- 👯 I’m looking to collaborate on text-based social context knowledge base construction, text based personality reconition
+- 👯 I’m looking to collaborate on text-based social context knowledge base construction, text-based personality reconition
 - 💬 Ask me about how to learn nlp with a lingistic background
 - 📫 How to reach me: zhiyin121@gmail.com
 
