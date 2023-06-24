@@ -1,7 +1,5 @@
 #### Hi there 👋
-- 👯 I’m looking to collaborate on text-based social context knowledge base construction, text-based personality recognition
-- 💬 Ask me about how to learn nlp with a lingistic background
-- 📫 How to reach me: zhiyin121@gmail.com
+- 📫 How to reach me: zhiyin121[@]gmail.com
 
 <!--
 **zhiyin121/zhiyin121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
